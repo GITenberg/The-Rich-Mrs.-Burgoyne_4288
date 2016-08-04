@@ -1,0 +1,26 @@
+_repo: The-Rich-Mrs.-Burgoyne_4288
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Norris, Kathleen Thompson
+    birthdate: 1880
+    deathdate: 1966
+    gutenberg_agent_id: '1247'
+    url: http://www.gutenberg.org/2009/agents/1247
+    wikipedia: http://en.wikipedia.org/wiki/Kathleen_Norris
+description: ''
+gutenberg_issued: '2003-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4288'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'California -- Fiction'
+- GITenberg
+title: The Rich Mrs. Burgoyne
+url: http://www.gutenberg.org/ebooks/4288
